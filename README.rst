@@ -22,6 +22,7 @@ Inleiding
 
 [![Status badge](https://img.shields.io/endpoint.svg?style=for-the-badge&amp;url=https://vng-staging.maykin.nl/api/v1/provider-run-shield/153/)](https://vng-staging.maykin.nl/server/3b18f910-4037-44b0-bf72-a8ec8aa5502e)
 
+
 Om verschillende zaken gerelateerd aan het nieuwe API-landschap te begrijpen,
 beheren, ontwikkelen, uitrollen, testen, etc. kan deze repository gebruikt 
 worden.
