@@ -5,8 +5,6 @@
 Een voorbeeld van een OAS 3.0 API met bijbehorende referentie implementatie.
 Deze repository is hoofdzakelijk voor intern gebruik bij VNG.
 
-De OAS 3.0 specificatie staat in de `API specificatie repository`_.
-
 
 # Inleiding
 
@@ -17,8 +15,6 @@ worden.
 Het is een volledig werkende API met 1 resource en endpoint en is een
 vereenvoudigde weergave van allerlei (ontwerp)beslissingen aangaande gebruikte
 technieken zoals RESTful APIs, Docker, OAS 3.0, versiebeheer, etc.
-
-Het component is te testen op de `testomgeving`_.
 
 
 # Licentie
