@@ -2,10 +2,14 @@
 Demo API Component
 ==================
 
+
+[![Status badge](https://img.shields.io/endpoint.svg?style=for-the-badge&amp;url=https://vng-staging.maykin.nl/api/v1/provider-run-shield/153/)](https://vng-staging.maykin.nl/server/3b18f910-4037-44b0-bf72-a8ec8aa5502e)
+
 :Version: 2.1.0
 :Source: https://github.com/maykinmedia/demo-api-component
 :Keywords: VNG, VNG-realisatie, demo, api
 :PythonVersion: 3.6
+
 
 |build-status| |requirements|
 
