@@ -19,6 +19,7 @@ technieken zoals RESTful APIs, Docker, OAS 3.0, versiebeheer, etc.
 Met de Demo API kun je quotes plaatsen, opvragen, aanpassen en deleten. 
 
 OAS-specificatie: https://ref.tst.vng.cloud/demo-api/api/v2/schema
+
 Root van de API: https://ref.tst.vng.cloud/demo-api/api/v2
 
 # Licentie
