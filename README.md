@@ -1,5 +1,7 @@
 [![Status badge](https://img.shields.io/endpoint.svg?style=for-the-badge&amp;url=https://vng-staging.maykin.nl/api/v1/provider-run-shield/154/)](https://vng-staging.maykin.nl/server/a522ff07-fd14-4769-b482-5ed1ec330bcd)
 
+[![Status badge](https://img.shields.io/endpoint.svg?style=for-the-badge&amp;url=https://vng-staging.maykin.nl/api/v1/provider-run-shield/4e8a612b-34e9-4348-a9d2-9949a351dd20/)](https://vng-staging.maykin.nl/server/4e8a612b-34e9-4348-a9d2-9949a351dd20)
+
 # Demo API Component
 
 Een voorbeeld van een OAS 3.0 API met bijbehorende referentie implementatie.
