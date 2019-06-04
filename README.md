@@ -1,6 +1,4 @@
-[![Status badge](https://img.shields.io/endpoint.svg?style=for-the-badge&amp;url=https://vng-staging.maykin.nl/api/v1/provider-run-shield/154/)](https://vng-staging.maykin.nl/server/a522ff07-fd14-4769-b482-5ed1ec330bcd)
-
-[![Status badge](https://img.shields.io/endpoint.svg?style=for-the-badge&amp;url=https://vng-staging.maykin.nl/api/v1/provider-run-shield/4e8a612b-34e9-4348-a9d2-9949a351dd20/)](https://vng-staging.maykin.nl/server/4e8a612b-34e9-4348-a9d2-9949a351dd20)
+[![Status badge](https://img.shields.io/endpoint.svg?style=for-the-badge&amp;url=https://vng-staging.maykin.nl/api/v1/provider-run-shield/8699bde6-9c9d-428b-a7d0-dfd1b76e8279/)](https://vng-staging.maykin.nl/server/8699bde6-9c9d-428b-a7d0-dfd1b76e8279)
 
 # Demo API Component
 
